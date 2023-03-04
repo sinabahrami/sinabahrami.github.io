@@ -8,7 +8,7 @@ author_profile: true
 ## Contact
 
 <address>
-  Department of Civil & Environmental Engineering <br />GGB 2148<br />2350 Hayward<br /> Ann Arbor 48109-2125 MI<br /> United States
+ 2350 Hayward<br /> Department of Civil & Environmental Engineering <br />GGB 2148<br /> Ann Arbor, MI 48109-2125 <br /> United States
 </address>
 <br>
 <!-- ([see on Google Maps](https://goo.gl/maps/5JmzYNJTt8hZufbZA)) -->
