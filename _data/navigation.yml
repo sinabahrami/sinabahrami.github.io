@@ -5,3 +5,6 @@ main:
 
   - title: "Media Coverage"
     url: /media/    
+
+- title: "Contact"
+    url: /contact/
