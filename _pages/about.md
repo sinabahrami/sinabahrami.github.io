@@ -13,7 +13,7 @@ I am an Assitant Research Scientist at department of [Civil and Environmental En
 ## Experience
 
 <style>
-td, th {
+table, td, th {
    border: none!important;
 }
 </style>
