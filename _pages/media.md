@@ -17,3 +17,15 @@ author_profile: true
      height="300"
      width="500" />
 ---
+<strong>Global News</strong>: [Parking lot karma: How driverless cars could change the urban landscape](https://globalnews.ca/news/4122271/driverless-cars-parking-lots-future/)
+
+<img src="/images/globalnews.jpg"
+     height="300"
+     width="500" />
+---
+<strong>New Atlas</strong>: [Parking lots: Why autonomous cars could save acres of space](https://newatlas.com/autonomous-car-parking/54026/)
+
+<img src="/images/newatlas.jpg"
+     height="300"
+     width="500" />
+---
