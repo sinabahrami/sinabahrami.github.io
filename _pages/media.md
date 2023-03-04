@@ -7,7 +7,7 @@ author_profile: true
 
 <strong>Forbes</strong>: [How autonomous vehicles might reshape our cities](https://www.forbes.com/sites/adigaskell/2018/04/13/how-autonomous-vehicles-might-reshape-our-cities/#133eccbd3078)
 
-<img src="forbes.png"
+<img src="/images/forbes.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
