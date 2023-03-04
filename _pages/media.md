@@ -10,9 +10,10 @@ author_profile: true
 <img src="/images/forbes.jpg"
      height="300"
      width="500" />
-
+---
 <strong>University of Toronto Engineering News</strong>: [How self-driving cars could shrink parking lots](http://news.engineering.utoronto.ca/self-driving-cars-shrink-parking-lots/)
 
 <img src="/images/uoftengnews.jpg"
      height="300"
      width="500" />
+---
