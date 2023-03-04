@@ -34,4 +34,20 @@ author_profile: true
 <img src="/images/newatlas.JPG"
      height="300"
      width="500" />
+     
 ---
+
+<strong>REMI Network</strong>: [Self-driving cars may condense parking lots: study](https://www.reminetwork.com/articles/self-driving-cars-may-shrink-parking-lots-research/)
+
+<img src="/images/reminetwork.jpg"
+     height="300"
+     width="500" />
+     
+---
+
+<strong>IEEE Spectrum</strong>: [How Self-Driving Cars Might Transform City Parking](https://spectrum.ieee.org/autonomous-parking)
+
+<img src="/images/IEEE.JPG"
+     height="300"
+     width="500" />
+   
