@@ -191,9 +191,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  Contact:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
