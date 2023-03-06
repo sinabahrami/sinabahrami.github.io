@@ -28,9 +28,9 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-building" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
-      
-         <li><a <i class="fa fa-phone-square" aria-hidden="true"></i> 734-764-4303</a></li> 
-
+      {% if author.officephone %}
+        <li><i class="fa fa-phone-square" aria-hidden="true"></i> 734-764-4303</li> 
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
@@ -45,10 +45,8 @@
       {% endif %}
        {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
-      {% endif %}
-      
-        <li><a href="files/CV_Sina_Bahrami.pdf"><i class="fa fa-file-pdf"></i> CV</a></li>
-            
+      {% endif %}     
+        <li><a href="files/CV_Sina_Bahrami.pdf"><i class="fa fa-file-pdf"></i> CV</a></li>           
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
