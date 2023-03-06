@@ -23,7 +23,7 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-university" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li><a href="https://umich.edu/"><i class="fa fa-fw fa-university" aria-hidden="true"></i> {{ author.employer }}</a></li>
       {% endif %}
       {% if author.location %}
         <li><a href="https://goo.gl/maps/TqpF6YZC4GpF8Xti8"><i class="fa fa-fw fa-building" aria-hidden="true"></i> {{ author.location }}</a></li>
