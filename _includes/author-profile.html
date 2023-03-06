@@ -29,7 +29,7 @@
         <li><i class="fa fa-fw fa-building" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.officephone %}
-        <li><i class="fa fa-phone-square" aria-hidden="true"></i> 734-764-4303</li> 
+        <li><i class="fa fa-phone-square" aria-hidden="true"></i> {{ author.officephone }}</li> 
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
