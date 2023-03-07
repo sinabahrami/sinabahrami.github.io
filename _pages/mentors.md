@@ -38,7 +38,7 @@ th, td {
   </tr>
   <tr>
     <td><img src="/images/Mehdi.jpg" height="200" width="300"></td>
-    <td><strong> Dr. Mehdi Nourinejad</strong><BR> My friendship with Dr. Nourinjead goes back to my undergrad studies at Sharif University of Technology. Mehdi is brilliant and innovative. He is also a great friend and one who I go to first for any advice. He did a lot for me which I cannot tell them all. I think he would say that "he saved my life once", but it was only taking me to the hospital when I had a rupture in my spleen. You can learn more about Dr. Nourinejad's research by checking his <a href="https://nourinejad.me/" target="_blank" rel="noopener noreferrer"> website.</a></td>
+    <td><strong> Dr. Mehdi Nourinejad</strong><BR> My friendship with Dr. Nourinjead goes back to my undergrad studies at Sharif University of Technology. Mehdi is brilliant and innovative. He is also a great friend and one who I go to first for any advice. He did a lot for me which I cannot tell them all. I think he would say that ”he saved my life once” by taking me to the hospital when I had a rupture in my spleen. You can learn more about Dr. Nourinejad's research by checking his <a href="https://nourinejad.me/" target="_blank" rel="noopener noreferrer"> website.</a></td>
   </tr>
 </tbody>
 </table>
