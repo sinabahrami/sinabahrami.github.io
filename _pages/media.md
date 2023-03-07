@@ -6,9 +6,16 @@ author_profile: true
 ---
 
 <style>
-table {border: none!important;}
-tr:nth-child(even) {background-color: #f2f2f2;}
-th, td {border-bottom: 3px solid #ddd;}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 3px solid;
+}
 </style>
 
 <table>
