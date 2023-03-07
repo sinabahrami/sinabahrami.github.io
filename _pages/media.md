@@ -18,7 +18,7 @@ table, th {
     <td><a href="https://www.forbes.com/sites/adigaskell/2018/04/13/how-autonomous-vehicles-might-reshape-our-cities/#133eccbd3078" target="_blank" rel="noopener noreferrer">How autonomous vehicles might reshape our cities</a></td>
   </tr>
   <tr>
-    <td><img src="/images/forbes.jpg"height="200" width="300" />
+    <td><img src="/images/uoftengnews.jpg"height="200" width="300" />
     <td><strong>University of Toronto Engineering News</strong></td>
     <td><a href="http://news.engineering.utoronto.ca/self-driving-cars-shrink-parking-lots/" target="_blank" rel="noopener noreferrer">How self-driving cars could shrink parking lots</a></td>
   </tr>     
