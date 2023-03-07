@@ -6,14 +6,10 @@ author_profile: true
 ---
 
 <style>
-table,td {border: none!important;}
+table {border: none!important;}
+tr:nth-child(even) {background-color: #f2f2f2;}
+th, td {border-bottom: 3px solid #ddd;}
 </style>
-tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-th, td {
-  border-bottom: 3px solid #ddd;
-}
 
 <table>
 <tbody>
