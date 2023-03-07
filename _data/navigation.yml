@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Media Coverage"
-    url: /media/    
+    url: /media/
+    
+  - title: "Mentors"
+    url: /mentors/
 
 #  - title: "Contact"
 #    url: /contact/
