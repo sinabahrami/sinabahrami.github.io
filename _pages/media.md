@@ -9,6 +9,7 @@ author_profile: true
 table {
   border-collapse: collapse;
   width: 100%;
+  border: 0px
 }
 
 th, td {
