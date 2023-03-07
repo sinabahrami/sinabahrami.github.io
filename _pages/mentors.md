@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " "
-permalink: /contact/
+permalink: /mentors/
 author_profile: true
 ---
 
