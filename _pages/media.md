@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <style>
-table{border: none!important;}
+table,td {border: none!important;}
 </style>
 
 
