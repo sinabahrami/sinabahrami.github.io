@@ -11,8 +11,7 @@ Over the course of my training process, I was fortunate to have outstanding ment
 table {
   border-collapse: collapse;
   width: 100%;
-  border: 0px;
-  font-size: 14px;
+  border: 0px
 }
 
 th, td {
@@ -20,8 +19,8 @@ th, td {
   text-align: left;
   border-bottom: 3px solid;
   border-right: 0px;
-  font-size: 30px;
 }
+font-size: 20px;
 </style>
 
 <table>
