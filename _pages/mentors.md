@@ -19,7 +19,7 @@ th, td {
   text-align: left;
   border-bottom: 3px solid;
   border-right: 0px;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 </style>
