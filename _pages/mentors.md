@@ -12,14 +12,15 @@ table {
   border-collapse: collapse;
   width: 100%;
   border: 0px;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 th, td {
   padding: 8px;
   text-align: left;
   border-bottom: 3px solid;
-  border-right: 0px
+  border-right: 0px;
+  font-size: 14px;
 }
 </style>
 
