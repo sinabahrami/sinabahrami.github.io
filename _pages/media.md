@@ -5,6 +5,12 @@ permalink: /media/
 author_profile: true
 ---
 
+<style>
+table, td, th {
+   border: none!important;
+}
+</style>
+
 
 <table>
 <tbody>
