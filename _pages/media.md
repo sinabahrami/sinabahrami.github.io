@@ -16,7 +16,8 @@ th, td {
   padding: 8px;
   text-align: left;
   border-bottom: 3px solid;
-  border-right: 0px
+  border-right: 0px;
+  font-size: 20px;
 }
 </style>
 
