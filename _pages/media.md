@@ -8,7 +8,9 @@ author_profile: true
 <style>
 table,td {border: none!important;}
 </style>
-
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
 
 <table>
 <tbody>
