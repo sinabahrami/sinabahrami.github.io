@@ -18,7 +18,7 @@ I am an Assitant Research Scientist at department of [Civil and Environmental En
 <style>
 table, td, th {
    border: none!important;
-  font-size: 16px
+  font-size: 13px
 }
 </style>
 
