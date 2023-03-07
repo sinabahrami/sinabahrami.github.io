@@ -5,6 +5,28 @@ permalink: /media/
 author_profile: true
 ---
 
+<style>
+table, th {
+   border: none!important;
+}
+</style>
+<table>
+<tbody>
+  <tr>
+    <td><img src="/images/forbes.jpg"height="200" width="300" />
+    <td><strong>Forbes</strong></td>
+    <td><a href="https://www.forbes.com/sites/adigaskell/2018/04/13/how-autonomous-vehicles-might-reshape-our-cities/#133eccbd3078" target="_blank" rel="noopener noreferrer">How autonomous vehicles might reshape our cities</a></td>
+  </tr>
+  <tr>
+    <td><img src="/images/forbes.jpg"height="200" width="300" />
+    <td><strong>University of Toronto Engineering News</strong></td>
+    <td><a href="http://news.engineering.utoronto.ca/self-driving-cars-shrink-parking-lots/" target="_blank" rel="noopener noreferrer">How self-driving cars could shrink parking lots</a></td>
+  </tr>     
+</tbody>
+</table>
+     
+     
+     
 <strong>Forbes</strong>: [How autonomous vehicles might reshape our cities](https://www.forbes.com/sites/adigaskell/2018/04/13/how-autonomous-vehicles-might-reshape-our-cities/#133eccbd3078)
 
 <img src="/images/forbes.jpg"
