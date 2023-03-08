@@ -58,12 +58,12 @@ table, td, th {
   </tr>
   <tr>
     <td><strong>M.Sc. in Transportation Engineering</strong></td>
-    <td>Sharif University of technology</td>
+    <td><a href="https://en.sharif.edu/" target="_blank" rel="noopener noreferrer">Sharif University of technology</a></td>
     <td>2013-2015</td>
   </tr>
   <tr>
     <td><strong>B.Sc. in Civil Engineering</strong></td>
-    <td>Sharif University of technology</td>
+    <td><a href="https://en.sharif.edu/" target="_blank" rel="noopener noreferrer">Sharif University of technology</a></td>
     <td>2007-2012</td>
   </tr>
 </tbody>
