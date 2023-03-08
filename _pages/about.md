@@ -69,4 +69,4 @@ table, td, th {
 </tbody>
 </table>
 
-<a href="http://www.clustrmaps.com/map/Sinabahrami.github.io" title="Visit tracker for Sinabahrami.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=IoWTL94tpoEy6_z94qmxBuVoPZkRs3WwgA5Of3CPfsE" /></a>
+<a href="http://www.clustrmaps.com/map/Sinabahrami.github.io" title="Visit tracker for Sinabahrami.github.io"></a>
