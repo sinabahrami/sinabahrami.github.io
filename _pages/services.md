@@ -8,13 +8,13 @@ author_profile: true
 
 ## Service to profession
 
-1. Committee member
+1. ***Committee member***
      1. Transportation Research Board Committee on [Freight Transportation Planning and Logistics (AT015)](https://freightplanning.org/) (2016-present)
      2. Transportation Research Board Committee on Regional Transportation Systems Management and Operations (AHB10) (2016-2019)
-2. Organizing committee
+2. ***Organizing committee***
      1. [2021 International Symposium on Transportation Data and Modelling](https://limos.engin.umich.edu/istdm2021/)
      2. [25th International Symposium on Transportation and Traffic Theory (ISTTT25)](https://limos.engin.umich.edu/isttt25/)
-3. Paper review
+3. ***Paper review***
     1. [Transportation Science](https://pubsonline.informs.org/journal/trsc)
     2. [Transportation Research Part A: Policy and Practice](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice)
     3. [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
@@ -33,9 +33,9 @@ author_profile: true
 
 ## Service to institution
 
-1. University of Michigan
+1. ***University of Michigan***
     1. 2023 Towner prize judging committee
-2. Eindhoven University of Technology
+2. ***Eindhoven University of Technology***
     1. Examination committee memebr at Department of Built Environment
     2. Assessment committee memebr at Department of Built Environment
     3. MT Research assessor at Department of Built Environment  
