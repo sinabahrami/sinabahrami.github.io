@@ -52,12 +52,12 @@ table, td, th {
 <table>
 <tbody>
   <tr>
-    <td><strong>Ph.D. in Transportation Engineering</strong></td>
+    <td><strong>Ph.D. in Civil-Transportation Engineering</strong></td>
     <td><a href="https://hdl.handle.net/1807/97324" target="_blank" rel="noopener noreferrer">University of Toronto</a></td>
     <td>2015-2019</td>
   </tr>
   <tr>
-    <td><strong>M.Sc. in Transportation Engineering</strong></td>
+    <td><strong>M.Sc. in Civil-Transportation Engineering</strong></td>
     <td><a href="https://en.sharif.edu/" target="_blank" rel="noopener noreferrer">Sharif University of technology</a></td>
     <td>2013-2015</td>
   </tr>
