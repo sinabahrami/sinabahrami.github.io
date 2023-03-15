@@ -191,6 +191,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  services:
+    output: true
+    permalink: /:collection/:path/
   Mentors:
     output: true
     permalink: /:collection/:path/
