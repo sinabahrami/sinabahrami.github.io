@@ -29,7 +29,7 @@ author_profile: true
     12. [Journal of the Operational Research Society](https://www.tandfonline.com/journals/tjor20)
     13. [SN Applied Sciences](https://www.springer.com/journal/42452?gclid=Cj0KCQjw2cWgBhDYARIsALggUhoS6CSmt1CieMpBuugmzQnvXxWKpcuGyD8Y--Hk1ipPVJYu_qkmIMcaAoVBEALw_wcB)
     14. [IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578)
-    15. [Operations Research Forum](Operations Research Forum)
+    15. [Operations Research Forum](https://www.springer.com/journal/43069)
 
 ## Service to institution
 
