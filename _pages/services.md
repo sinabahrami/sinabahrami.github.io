@@ -14,7 +14,9 @@ author_profile: true
 2. ***Organizing committee***
      1. [2021 International Symposium on Transportation Data and Modelling](https://limos.engin.umich.edu/istdm2021/)
      2. [25th International Symposium on Transportation and Traffic Theory (ISTTT25)](https://limos.engin.umich.edu/isttt25/)
-3. ***Paper review***
+3. ***Editorial board***
+     1. Sub-editor of freight routing, supply chain and logistics optimization in [Freight Transportation Planning and Logistics (AT015)](https://freightplanning.org/editorial-board/)
+4. ***Paper review***
     1. [Transportation Science](https://pubsonline.informs.org/journal/trsc)
     2. [Transportation Research Part A: Policy and Practice](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice)
     3. [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
