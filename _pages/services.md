@@ -16,7 +16,7 @@ author_profile: true
      2. [25th International Symposium on Transportation and Traffic Theory (ISTTT25)](https://limos.engin.umich.edu/isttt25/)
 3. ***Editorial board***
      1. Sub-editor of freight routing, supply chain and logistics optimization in [Freight Transportation Planning and Logistics (AT015)](https://freightplanning.org/editorial-board/)
-4. ***Paper review***
+4. ***Reviewer for Journals and Conferences***
     1. [Transportation Science](https://pubsonline.informs.org/journal/trsc)
     2. [Transportation Research Part A: Policy and Practice](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice)
     3. [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
@@ -32,6 +32,14 @@ author_profile: true
     13. [SN Applied Sciences](https://www.springer.com/journal/42452?gclid=Cj0KCQjw2cWgBhDYARIsALggUhoS6CSmt1CieMpBuugmzQnvXxWKpcuGyD8Y--Hk1ipPVJYu_qkmIMcaAoVBEALw_wcB)
     14. [IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578)
     15. [Operations Research Forum](https://www.springer.com/journal/43069)
+    16. [2021 International Symposium on Transportation Data and Modelling](https://limos.engin.umich.edu/istdm2021/)
+    17. [8th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS 2023)](https://mt-its2023.eurecom.fr/)
+    18. [25th International Symposium on Transportation and Traffic Theory (ISTTT25)](https://limos.engin.umich.edu/isttt25/)
+    19. [11th Symposium of the European Association for Research in Transportation (hEART 2023)](https://heart2023.org/)
+5. ***Session chair***
+    1. 2021 INFORMS Annual Meeting session on Pricing in shared mobility markets
+    2. TRB 102nd Annual Meeting session on Freight planning and health care logistics during COVID-19 pandemic
+    3. 2021 International Symposium on Transportation Data and Modelling session on Behavior
 
 ## Service to institution
 
