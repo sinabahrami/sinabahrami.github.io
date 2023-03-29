@@ -40,6 +40,7 @@ author_profile: true
     1. 2021 INFORMS Annual Meeting session on Pricing in shared mobility markets
     2. TRB 102nd Annual Meeting session on Freight planning and health care logistics during COVID-19 pandemic
     3. 2021 International Symposium on Transportation Data and Modelling session on Behavior
+    4. TRB 100th Annual Meeting session on Freight Operations and Logistics
 
 ## Service to institution
 
