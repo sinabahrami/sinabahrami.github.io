@@ -47,7 +47,7 @@ author_profile: true
 1. ***University of Michigan***
     1. 2023 Towner prize judging committee
 2. ***Eindhoven University of Technology***
-    1. Examination committee memebr at Department of Built Environment
-    2. Assessment committee memebr at Department of Built Environment
+    1. Examination committee member at Department of Built Environment
+    2. Assessment committee member at Department of Built Environment
     3. MT Research assessor at Department of Built Environment  
 
