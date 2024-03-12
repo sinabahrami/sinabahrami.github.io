@@ -45,7 +45,8 @@ author_profile: true
 ## Service to institution
 
 1. ***University of Michigan***
-    1. 2023 Towner prize judging committee
+    1. IT and Communications Committee at Department of Civil & Environmental Engineering
+    2. 2023 Towner prize judging committee
 2. ***Eindhoven University of Technology***
     1. Examination committee member at Department of Built Environment
     2. Assessment committee member at Department of Built Environment
