@@ -11,7 +11,7 @@ redirect_from:
 
 ## About me
 
-I am an Assistant Research Scientist at department of [Civil and Environmental Engineering](https://cee.engin.umich.edu/) at University of Michigan. My research focuses on the optimal planning and design of emerging mobility systems and services in smart cities with electric and automated vehicles. My detailed CV can be found [here](https://sinabahrami.github.io/files/CV_Sina_Bahrami.pdf).
+I am an Assistant Research Scientist at the [Department of Civil and Environmental Engineering](https://cee.engin.umich.edu/) at University of Michigan. My research focuses on developing optimal strategic decisions and policies for enabling emerging mobility systems in smart cities with electric and automated vehicles. My detailed CV can be found [here](https://sinabahrami.github.io/files/CV_Sina_Bahrami.pdf).
 
 ## Experience
 
