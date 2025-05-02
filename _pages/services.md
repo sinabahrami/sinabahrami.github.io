@@ -8,15 +8,24 @@ author_profile: true
 
 ## Service to profession
 
-1. ***Committee member***
-     1. Transportation Research Board Committee on [Freight Transportation Planning and Logistics (AT015)](https://freightplanning.org/) (2016-present)
+1. ***Editorial board***
+     1. [Handling Editor of Transportation Research Record: Journal of Transportation Research Board](https://journals-sagepub-com.proxy.lib.umich.edu/editorial-board/trr)
+     2. Sub-editor of freight routing, supply chain and logistics optimization in [Freight Transportation Planning and Logistics (AT015)](https://freightplanning.org/editorial-board/)
+2. ***Committee member***
+     1. Transportation Research Board Committee on [Freight Transportation Planning and Logistics (AT015)](https://freightplanning.org/) (2016-2025)
      2. Transportation Research Board Committee on Regional Transportation Systems Management and Operations (AHB10) (2016-2019)
-2. ***Organizing committee***
+3. ***Organizing committee***
      1. [2021 International Symposium on Transportation Data and Modelling](https://limos.engin.umich.edu/istdm2021/)
      2. [25th International Symposium on Transportation and Traffic Theory (ISTTT25)](https://limos.engin.umich.edu/isttt25/)
-3. ***Editorial board***
-     1. Sub-editor of freight routing, supply chain and logistics optimization in [Freight Transportation Planning and Logistics (AT015)](https://freightplanning.org/editorial-board/)
-4. ***Reviewer for Journals and Conferences***
+4. ***Session chair***
+    1. TRB 104th Annual Meeting session on Impact of Freight Policies and Advances in Freight Modeling
+    2. TRB 103rd Annual Meeting session on Advances in Last-Mile Package Delivery and Logistics
+    3. 2023 INFORMS Annual Meeting session on Optimization of Autonomous Transportation Systems
+    4. 2021 INFORMS Annual Meeting session on Pricing in shared mobility markets
+    5. TRB 102nd Annual Meeting session on Freight planning and health care logistics during COVID-19 pandemic
+    6. 2021 International Symposium on Transportation Data and Modelling session on Behavior
+    7. TRB 100th Annual Meeting session on Freight Operations and Logistics
+5. ***Peer Review Service***
     1. [Transportation Science](https://pubsonline.informs.org/journal/trsc)
     2. [Transportation Research Part A: Policy and Practice](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice)
     3. [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
@@ -36,19 +45,16 @@ author_profile: true
     17. [8th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS 2023)](https://mt-its2023.eurecom.fr/)
     18. [25th International Symposium on Transportation and Traffic Theory (ISTTT25)](https://limos.engin.umich.edu/isttt25/)
     19. [11th Symposium of the European Association for Research in Transportation (hEART 2023)](https://heart2023.org/)
-5. ***Session chair***
-    1. 2021 INFORMS Annual Meeting session on Pricing in shared mobility markets
-    2. TRB 102nd Annual Meeting session on Freight planning and health care logistics during COVID-19 pandemic
-    3. 2021 International Symposium on Transportation Data and Modelling session on Behavior
-    4. TRB 100th Annual Meeting session on Freight Operations and Logistics
+
 
 ## Service to institution
 
 1. ***University of Michigan***
-    1. IT and Communications Committee at Department of Civil & Environmental Engineering
-    2. 2023 Towner prize judging committee
+    1. Strategic Implementation Committee at Department of Civil & Environmental Engineering (2024-present)
+    2. IT and Communications Committee at Department of Civil & Environmental Engineering (2023-present)
+    3. 2023 Towner prize judging committee
 2. ***Eindhoven University of Technology***
-    1. Examination committee member at Department of Built Environment
-    2. Assessment committee member at Department of Built Environment
-    3. MT Research assessor at Department of Built Environment  
+    1. Examination committee member at Department of Built Environment (2021-2022)
+    2. Assessment committee member at Department of Built Environment (2021-2022)
+    3. MT Research assessor at Department of Built Environment (2021-2022)  
 
