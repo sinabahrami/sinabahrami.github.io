@@ -9,8 +9,9 @@ author_profile: true
 ## Service to profession
 
 1. ***Editorial board***
-     1. [Handling Editor of Transportation Research Record: Journal of Transportation Research Board](https://journals-sagepub-com.proxy.lib.umich.edu/editorial-board/trr)
-     2. Sub-editor of freight routing, supply chain and logistics optimization in [Freight Transportation Planning and Logistics (AT015)](https://freightplanning.org/editorial-board/)
+     1. [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review/about/editorial-board)
+     2. [Transportation Research Record: Journal of Transportation Research Board](https://journals-sagepub-com.proxy.lib.umich.edu/editorial-board/trr)
+     3. [Transportation Letters](https://www.tandfonline.com/journals/ytrl20/about-this-journal#editorial-board)
 2. ***Committee member***
      1. Transportation Research Board Committee on [Freight Transportation Planning and Logistics (AT015)](https://freightplanning.org/) (2016-2025)
      2. Transportation Research Board Committee on Regional Transportation Systems Management and Operations (AHB10) (2016-2019)
@@ -50,9 +51,10 @@ author_profile: true
 ## Service to institution
 
 1. ***University of Michigan***
-    1. Strategic Implementation Committee at Department of Civil & Environmental Engineering (2024-present)
-    2. IT and Communications Committee at Department of Civil & Environmental Engineering (2023-present)
-    3. 2023 Towner prize judging committee
+    1. Graduate Committee (2025-present)
+    2. Strategic Implementation Committee at Department of Civil & Environmental Engineering (2024-2025)
+    3. IT and Communications Committee at Department of Civil & Environmental Engineering (2023-2025)
+    4. 2023 Towner prize judging committee
 2. ***Eindhoven University of Technology***
     1. Examination committee member at Department of Built Environment (2021-2022)
     2. Assessment committee member at Department of Built Environment (2021-2022)
