@@ -51,7 +51,7 @@ author_profile: true
 ## Service to institution
 
 1. ***University of Michigan***
-    1. Graduate Committee (2025-present)
+    1. [Graduate Committee](https://cee.engin.umich.edu/about/leadership-and-governance/) (2025-present)
     2. Strategic Implementation Committee at Department of Civil & Environmental Engineering (2024-2025)
     3. IT and Communications Committee at Department of Civil & Environmental Engineering (2023-2025)
     4. 2023 Towner prize judging committee
