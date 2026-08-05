@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Team &mdash; METRO Lab</title>
+  <meta name="description" content="The METRO Lab team: Principal Investigator Sina Bahrami, and information for prospective students." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='18' fill='%231b365d'/%3E%3Ctext x='50' y='66' font-family='Inter,sans-serif' font-size='42' font-weight='800' fill='white' text-anchor='middle'%3EM%3C/text%3E%3C/svg%3E" />
+  <style>
+    .pi-photo {
+      width: 200px;
+      height: 240px;
+      border-radius: var(--radius);
+      object-fit: cover;
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow-2);
+      display: block;
+    }
+    .pi-photo-wrap {
+      position: relative;
+    }
+    .pi-photo-wrap::before {
+      content: "";
+      position: absolute;
+      top: 12px; left: 12px;
+      width: 100%; height: 100%;
+      border: 1.5px solid var(--copper);
+      border-radius: var(--radius);
+      z-index: 0;
+      pointer-events: none;
+    }
+    .pi-photo { position: relative; z-index: 1; }
+    .pi-block {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 2.5rem;
+      align-items: start;
+      margin-top: 1rem;
+    }
+    @media (max-width: 700px) {
+      .pi-block { grid-template-columns: 1fr; gap: 1.5rem; }
+      .pi-photo { width: 160px; height: 190px; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a href="index.html" class="brand" aria-label="METRO Lab home">
+      <span class="mark">M</span>
+      <span class="name">
+        <span class="lab">METRO Lab</span>
+        <span class="sub">Modeling Emerging Transportation with Robust Optimization</span>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="index.html">Home</a>
+      <a href="publications.html">Publications</a>
+      <a href="team.html" class="active">Team</a>
+      <a href="media.html">Media</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<!-- <section class="page-head">
+  <div class="wrap">
+    <p class="eyebrow">TEAM / PEOPLE</p>
+    <h1>People of the METRO Lab.</h1>
+    <p class="lead">
+      The METRO Lab launches in Fall 2026 in the Department of Civil, Construction, and Environmental Engineering at the <em>University of Memphis</em>.
+      This page introduces the Principal Investigator and current lab members, and provides information for prospective students.
+    </p>
+  </div>
+</section> -->
+
+<main class="container">
+
+  <section class="section">
+    <!-- <span class="section-num">01 &mdash; Principal Investigator</span>
+    <h2 class="section-title">PI</h2> -->
+
+    <div class="pi-block">
+      <div class="pi-photo-wrap">
+        <img src="images/sina.jpg" alt="Dr. Sina Bahrami" class="pi-photo" />
+      </div>
+      <div>
+        <h3 style="margin-top:0;">Dr. Sina Bahrami</h3>
+        <p style="color:var(--copper); font-family:var(--mono); font-size:.85rem; letter-spacing:.08em; text-transform:uppercase; margin-bottom:.6rem;">Principal Investigator</p>
+        <p>
+          Dr. Bahrami is a transportation-systems researcher who applies operations research, equilibrium analysis, and market design to emerging mobility.
+          His research examines how infrastructure adapts to new vehicle technologies, how shared-economy platforms shape travel, and how cities move goods through their streets.
+        </p>
+        <p>
+          He earned his Ph.D. in Civil-Transportation Engineering at the University of Toronto under
+          <a href="https://civmin.utoronto.ca/home/about-us/directory/professors/matthew-roorda/">Prof. Matthew Roorda</a>,
+          then held postdoctoral positions at Toronto and the University of Michigan with
+          <a href="https://limos.engin.umich.edu/">Prof. Yafeng Yin</a>.
+          He was Assistant Professor at Eindhoven University of Technology from 2021 to 2023 and Assistant Research Scientist at Michigan from 2023 to 2026.
+        </p>
+        <p>
+          He serves on the editorial boards of <em>Transportation Research Part E</em>, <em>Transportation Research Record</em>, and <em>Transportation Letters</em>.
+          His research has been covered by <em>Forbes</em>, <em>IEEE Spectrum</em>, <em>Science Daily</em>, and other outlets.
+        </p>
+        <div style="margin-top:1rem;">
+          <a class="pill" href="files/CV_Sina_Bahrami.pdf">CV </a>
+          <a class="pill" href="https://scholar.google.com/citations?user=g8itq3AAAAAJ&hl=en">Google Scholar</a>
+          <a class="pill" href="https://www.linkedin.com/in/bahrami-sina/">LinkedIn</a> 
+          <a class="pill" href="mailto:sbahrami@memphis.edu">sbahrami@memphis.edu</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr/>
+
+  <!-- ============================================================
+       SECTION 02: CURRENT LAB MEMBERS
+       TO ADD A NEW STUDENT:
+       Inside <div class="people">...</div> below, copy one of the
+       commented-out <div class="person"> template blocks, paste it
+       above the closing </div>, and edit four things:
+         1. <div class="avatar">XX</div>      -- 2-letter initials
+         2. <span class="name">...</span>     -- full name
+         3. <span class="role">...</span>     -- e.g. "Ph.D. Student" / "M.Sc."
+         4. <span class="where">...</span>    -- start year, program, etc.
+       Then delete this paragraph that says "Recruiting now" once you
+       actually have lab members.
+       ============================================================ -->
+  <section class="section">
+    <!-- <span class="section-num">02 &mdash; Current Lab Members</span> -->
+    <h2 class="section-title">Current Lab Members</h2>
+    <p class="section-lead" id="lab-members-empty">
+      The lab is currently recruiting its inaugural cohort.
+    </p>
+
+    <div class="people">
+      <!--
+        TEMPLATE: copy the block below, paste before </div>, and edit the four spans.
+        <div class="person">
+          <div class="avatar">XX</div>
+          <span class="name">First Last</span>
+          <span class="role">Ph.D. Student</span>
+          <span class="where">Started 2026 &middot; Civil Engineering</span>
+        </div>
+      -->
+    </div>
+  </section>
+
+  <hr/>
+
+  <!-- Recruiting -->
+  <section class="section">
+    <!-- <span class="section-num">03 &mdash; Join the Lab</span> -->
+    <h2 class="section-title">Open positions</h2>
+
+    <div class="recruit">
+      <h3>Graduate students</h3>
+      <p>
+        The METRO Lab is recruiting <strong>two fully funded graduate students</strong>. Ideal candidates hold a background in transportation engineering, industrial engineering, or applied mathematics, and have a strong interest in applying operations research to emerging mobility problems.
+      </p>
+      <p>
+        <strong>To apply:</strong> send a brief statement (200&ndash;300 words) describing your research interests, prior work, and the problems you wish to pursue. Please attach a CV and an unofficial transcript.
+      </p>
+    </div>
+
+    <!-- <div class="recruit">
+      <h3>Master's students and visiting scholars</h3>
+      <p>
+        The lab advises <strong>Master's thesis projects</strong> with strong methodological content and hosts <strong>visiting students and scholars</strong> for stays of 3&ndash;12 months. Visiting applicants are expected to hold external funding (e.g., CSC, FAPESP, Fulbright, or home-institution support).
+      </p>
+    </div> -->
+
+    <!-- <div class="recruit">
+      <h3>Undergraduate research</h3>
+      <p>
+        Once the lab is established, motivated undergraduate students will be engaged each semester on short, well-defined projects. University of Memphis undergraduates are welcome to send a brief statement of interest along with a transcript.
+      </p>
+    </div> -->
+
+    <p style="margin-top:1.5rem;">
+      <a class="pill" href="mailto:sbahrami@memphis.edu?subject=METRO%20Lab%20%E2%80%94%20Prospective%20Student">Email Dr. Bahrami &rarr;</a>
+    </p>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div>
+      <h4>METRO Lab</h4>
+      <p>Modeling Emerging Transportation with Robust Optimization</p>
+      <p>Dr. Sina Bahrami</p>
+      <p>Assistant Professor</p>
+      <p>Department of Civil, Construction, and Environmental Engineering </p>
+      <p>University of Memphis</p>
+      <!-- <p style="font-size:.82rem;">Department of Civil, Construction, and Environmental Engineering, University of Memphis. Fall 2026.</p> -->
+    </div>
+    <div>
+      <h4>Sections</h4>
+      <ul>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="team.html">Team</a></li>
+        <li><a href="news.html">News</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>About</h4>
+      <ul>
+        <li><a href="files/CV_Sina_Bahrami.pdf">CV</a></li>
+        <li><a href="media.html">Media</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap colophon">
+    <div>&copy; 2026 Sina Bahrami &middot; METRO Lab</div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=g8itq3AAAAAJ&hl=en">Google Scholar</a> &middot;
+      <a href="https://www.linkedin.com/in/bahrami-sina/">LinkedIn</a> &middot;
+      <a href="mailto:sbahrami@memphis.edu">sbahrami@memphis.edu</a>
+      <!-- <a href="https://www.researchgate.net/profile/Sina-Bahrami-3">ResearchGate</a> -->
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
