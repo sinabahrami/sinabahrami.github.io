@@ -807,7 +807,7 @@ footer.site-footer .wrap {
   gap: 1.5rem;
 }
 @media (min-width: 720px) {
-  footer.site-footer .wrap { grid-template-columns: 2fr 1fr 1fr; }
+  footer.site-footer .wrap { grid-template-columns: 2fr 1fr; }
 }
 footer.site-footer h4 { color: var(--ink); margin-top: 0; margin-bottom: .5rem; }
 footer.site-footer p { margin: 0 0 .2rem; }
