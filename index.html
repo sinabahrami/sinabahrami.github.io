@@ -36,8 +36,20 @@
     <div class="hero-grid">
       <div class="hero-text">
         <span class="eyebrow">University of Memphis </span>
-        <h1 class="hero-mega">SINA <span class="lab-word">Lab</span></h1>
-        <p class="tagline">Shared &amp; Intelligent Network Analysis (SINA)</p>
+        <!-- Animated wordmark: the full name collapses into "SINA Lab" and back, on a loop.
+             Screen readers and search engines read the hidden text instead of the animation. -->
+        <h1 class="hero-mega" id="sina-wordmark">
+          <span class="sr-only">SINA Lab: Shared &amp; Intelligent Network Analysis</span>
+          <span class="sina-mark" aria-hidden="true">
+            <span class="sw"><span class="si">S</span><span class="sr"><span>hared</span></span></span>
+            <span class="sr sa"><span>&amp;</span></span>
+            <span class="sw"><span class="si">I</span><span class="sr"><span>ntelligent</span></span></span>
+            <span class="sw"><span class="si">N</span><span class="sr"><span>etwork</span></span></span>
+            <span class="sw"><span class="si">A</span><span class="sr"><span>nalysis</span></span></span>
+            <span class="sl"><span>Lab</span></span>
+          </span>
+        </h1>
+        <p class="tagline sina-tagline">Shared &amp; Intelligent Network Analysis (SINA)</p>
         <p class="lead">
           We employ optimization to study emerging mobility systems. Our research investigates how new vehicle technologies and platform services transform transportation systems, and how their benefits can be maximized for all stakeholders while adverse impacts are minimized.
         </p>
@@ -209,6 +221,51 @@
   } else {
     document.querySelectorAll('.reveal').forEach(el => el.classList.add('is-visible'));
   }
+</script>
+
+<script>
+  /* SINA wordmark animation: measures each word so the letters collapse smoothly,
+     and sizes the full name to fit the screen width. Skipped if the visitor
+     has "reduce motion" turned on (the static "SINA Lab" + tagline shows instead). */
+  (function () {
+    var h1 = document.getElementById('sina-wordmark');
+    if (!h1) return;
+    var mark = h1.querySelector('.sina-mark');
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduce) return;
+    var GAP = 0.26;           // word spacing in the full name (em) — keep in sync with styles.css
+    var MAX_PHRASE_PX = 68;   // largest size for the full name
+
+    function emWidth(el) {
+      return el.getBoundingClientRect().width / parseFloat(getComputedStyle(el).fontSize);
+    }
+    function setup() {
+      var total = 0;
+      mark.querySelectorAll('.sr, .sl').forEach(function (box) {
+        var w = emWidth(box.firstElementChild);
+        box.style.setProperty('--w', w.toFixed(3) + 'em');
+        if (!box.classList.contains('sl')) total += w;
+      });
+      mark.querySelectorAll('.si').forEach(function (el) { total += emWidth(el); });
+      total += GAP * 5;
+      var avail = h1.clientWidth;
+      var fsA = Math.min(MAX_PHRASE_PX, (avail / total) * 0.97);
+      mark.style.setProperty('--fs-a', fsA.toFixed(2) + 'px');
+    }
+    function start() {
+      setup();
+      h1.classList.add('is-animated');
+      var t;
+      window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(setup, 150); });
+    }
+    // Wait for the exact font weights used, so the measurements are accurate
+    if (document.fonts && document.fonts.load) {
+      Promise.all(['400', '500', '600'].map(function (w) {
+        return document.fonts.load(w + ' 48px Fraunces', 'SharedIntelligentNetworkAnalysisLab&');
+      })).then(function () { return document.fonts.ready; }).then(start, start);
+      document.fonts.addEventListener && document.fonts.addEventListener('loadingdone', function () { setup(); });
+    } else { start(); }
+  })();
 </script>
 
 </body>
